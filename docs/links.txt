@@ -7,5 +7,6 @@
 .. _LXD: https://linuxcontainers.org/lxd/docs/latest/
 .. _Multipass: https://multipass.run/docs
 .. _`Open Container Initiative`: https://opencontainers.org/
+.. _`Rockcraft GitHub pack action`: https://github.com/canonical/craft-actions#rockcraft-pack
 .. _skopeo: https://github.com/containers/skopeo
 .. _Snapcraft: https://snapcraft.io/docs/snapcraft-overview
