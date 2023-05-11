@@ -8,20 +8,7 @@ You will need to set up your development environment with the
 :doc:`prerequisites <common/prereq>` needed for this tutorial before
 continuing.
 
-Install Rockcraft
------------------
-
-Begin by running the :command:`snap` tool to install Rockcraft on your
-development system:
-
-.. literalinclude:: code/hello-world/task.yaml
-    :language: bash
-    :start-after: [docs:install-rockcraft]
-    :end-before: [docs:install-rockcraft-end]
-    :dedent: 2
-
-This obtains the :command:`rockcraft` tool from the ``edge`` channel to ensure
-that an up-to-date version is installed.
+.. include:: common/install-rockcraft.txt
 
 Project Setup
 -------------
@@ -72,8 +59,8 @@ for us in `OCI archive format`_, which is simply a :command:`tar` archive.
 Run the ROCK in Docker
 ----------------------
 
-First, use the version of :command:`skopeo` supplied with Rockcraft to import
-the recently created ROCK into Docker's registry:
+First, use the version of :command:`skopeo` supplied with Rockcraft to publish
+the recently created ROCK to Docker's registry:
 
 .. literalinclude:: code/hello-world/task.yaml
     :language: bash

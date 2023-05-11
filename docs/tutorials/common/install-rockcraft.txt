@@ -1,0 +1,14 @@
+Install Rockcraft
+-----------------
+
+Begin by running the :command:`snap` tool to install Rockcraft on your
+development system:
+
+.. literalinclude:: code/hello-world/task.yaml
+    :language: bash
+    :start-after: [docs:install-rockcraft]
+    :end-before: [docs:install-rockcraft-end]
+    :dedent: 2
+
+This obtains the :command:`rockcraft` tool from the ``edge`` channel to ensure
+that an up-to-date version is installed.

@@ -6,27 +6,11 @@ OpenSSL installation, and you will verify that it is functional by loading the
 ROCK into Docker and using it to validate the certificates of the Ubuntu
 website.
 
-Prerequisites
--------------
+You will need to set up your development environment with the
+:doc:`prerequisites <common/prereq>` needed for this tutorial before
+continuing.
 
-- snap enabled system (https://snapcraft.io)
-- LXD installed (https://linuxcontainers.org/lxd/getting-started-cli/)
-- skopeo installed (https://github.com/containers/skopeo)
-- Docker installed (https://docs.docker.com/get-docker/)
-- a text editor
-
-
-Install Rockcraft
------------------
-
-Install Rockcraft on your host:
-
-.. literalinclude:: code/chisel/task.yaml
-    :language: bash
-    :start-after: [docs:install-rockcraft]
-    :end-before: [docs:install-rockcraft-end]
-    :dedent: 2
-
+.. include:: common/install-rockcraft.txt
 
 Project Setup
 -------------

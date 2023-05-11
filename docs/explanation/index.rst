@@ -11,5 +11,6 @@ the motivations behind its development.
    :maxdepth: 1
 
    chisel
+   parts
    rocks
    rockcraft

@@ -1,17 +1,14 @@
 Publish a ROCK to a registry
 ============================
 
-Prerequisites
--------------
-
-- skopeo installed (https://github.com/containers/skopeo)
-- Docker installed (https://docs.docker.com/get-docker/)
-
+You will need to set up your development environment with the
+:doc:`prerequisites <common/prereq>` needed for this tutorial before
+continuing.
 
 Push a ROCK to Docker Hub
 -------------------------
 
-The output of ``rockcraft pack`` is a ROCK in its oci-archive archive format.
+The output of :command:`rockcraft pack` is a ROCK in `OCI archive format`_.
 
 ..  code-block:: bash
 
@@ -28,3 +25,5 @@ Output:
     Copying config 5da22a9016 done
     Writing manifest to image destination
     Storing signatures
+
+.. include:: /links.txt
