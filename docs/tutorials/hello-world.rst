@@ -5,7 +5,7 @@ This tutorial will show you how to create, build and run a ROCK, using
 a simple example.
 
 You will need to set up your development environment with the
-:doc:`prerequisites <common/prereq>` needed for this tutorial before
+:doc:`prerequisites <common/requirements>` needed for this tutorial before
 continuing.
 
 .. include:: common/install-rockcraft.txt

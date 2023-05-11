@@ -2,7 +2,7 @@ Publish a ROCK to a registry
 ============================
 
 You will need to set up your development environment with the
-:doc:`prerequisites <common/prereq>` needed for this tutorial before
+:doc:`requirements <common/requirements>` needed for this tutorial before
 continuing.
 
 Push a ROCK to Docker Hub

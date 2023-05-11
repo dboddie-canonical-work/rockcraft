@@ -7,8 +7,8 @@ ROCK into Docker and using it to validate the certificates of the Ubuntu
 website.
 
 You will need to set up your development environment with the
-:doc:`prerequisites <common/prereq>` needed for this tutorial before
-continuing.
+:doc:`prerequisites <common/requirements>` needed for this tutorial before
+continuing
 
 .. include:: common/install-rockcraft.txt
 

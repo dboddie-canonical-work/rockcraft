@@ -7,13 +7,13 @@ If you want to learn the basics from experience then our tutorials will help
 you acquire the necessary competencies from real-life examples with fully
 reproducible steps.
 
-Many of the tutorials have the same :doc:`prerequisites <common/prereq>`.
-It may be useful to install the software needed before you begin.
+Many of the tutorials have the same :doc:`requirements and dependencies
+<common/requirements>`. It may be useful to install these before you begin.
 
 .. toctree::
    :hidden:
 
-   common/prereq
+   common/requirements
 
 .. toctree::
    :maxdepth: 1

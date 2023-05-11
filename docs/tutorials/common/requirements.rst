@@ -1,4 +1,4 @@
-Prerequisites
+Requirements
 -------------
 
 Before starting any of the tutorials, set up a development environment by
