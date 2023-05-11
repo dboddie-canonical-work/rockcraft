@@ -1,5 +1,5 @@
-How to install your own package slice
-*************************************
+Install a custom package slice
+******************************
 
 When a specific package slice is not available on the `upstream Chisel
 releases <https://github.com/canonical/chisel-releases>`_, you will more

@@ -1,5 +1,5 @@
-How to create a package slice for Chisel
-****************************************
+Create a package slice for Chisel
+*********************************
 
 If your package doesn't yet have the slice definitions you actually need to
 **create your own slice definition** (which you can, later on, propose to be

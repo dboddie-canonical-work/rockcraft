@@ -21,9 +21,13 @@ execute: |
   # [docs:install-deps]
   pip install -r requirements-focal.txt -r requirements-doc.txt
   # [docs:install-deps-end]
-    
+
+  # [docs:leave-env]
+  deactivate
+  # [docs:leave-env-end]
+
   # [docs:make-docs]
-  make docs  # the home page can be found at docs/_build/html/index.html
+  make docs
   # [docs:make-docs-end]
 
   set +e

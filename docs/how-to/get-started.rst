@@ -1,10 +1,5 @@
-How to get started - quick guide
-********************************
-
-See the :ref:`tutorials` for a full getting started guide.
-
-Getting started
----------------
+Getting started with Rockcraft
+******************************
 
 Rockcraft is **the tool** for building Ubuntu-based and production-grade OCI
 images, aka ROCKs!
@@ -13,8 +8,10 @@ Rockcraft is distributed as a snap. For packing new ROCKs, it makes use of
 "providers" to execute all the steps involved in the ROCK's build process. At
 the moment, the supported providers are LXD and Multipass.
 
+See the :ref:`tutorials` for a full getting started guide.
+
 Requirements
-............
+------------
 
 Before installing the Rockcraft snap, make sure you have the necessary tools and
 environment to install and run Rockcraft.
